@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Moritz / Minemo and I'm an university student, from Germany</h2>
+<h2 align="left">Hi 👋! My name is Moritz / Minemo and I'm an university student from Germany</h2>
 
 ###
 
